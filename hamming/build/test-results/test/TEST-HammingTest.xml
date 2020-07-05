@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HammingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-12-10T13:33:43" hostname="C02Z800DNCM3" time="0.021">
+<testsuite name="HammingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-07-05T08:56:07" hostname="C02Z800DNCM3" time="0.025">
   <properties/>
-  <testcase name="single letter identical strands" classname="HammingTest" time="0.015"/>
-  <testcase name="empty strands" classname="HammingTest" time="0.001"/>
+  <testcase name="single letter identical strands" classname="HammingTest" time="0.018"/>
+  <testcase name="empty strands" classname="HammingTest" time="0.0"/>
   <testcase name="long different strands" classname="HammingTest" time="0.0"/>
-  <testcase name="disallow first strand longer" classname="HammingTest" time="0.004"/>
+  <testcase name="disallow first strand longer" classname="HammingTest" time="0.007"/>
   <testcase name="long identical strands" classname="HammingTest" time="0.0"/>
   <testcase name="disallow second strand longer" classname="HammingTest" time="0.0"/>
   <testcase name="single letter different strands" classname="HammingTest" time="0.0"/>
